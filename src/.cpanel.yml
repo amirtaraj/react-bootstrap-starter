@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/amirtara/public/
+    - export DEPLOYPATH=/home2/amirtara/public_html/
     - /bin/cp -R images $DEPLOYPATH
